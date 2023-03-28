@@ -5,7 +5,7 @@ a idade dessa pessoa expressa apenas em dias. Considerar ano com 365 dias e mês
 import java.util.Scanner;
 
 
-public class Main
+public class exerc02
 {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
