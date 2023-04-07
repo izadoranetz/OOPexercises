@@ -11,7 +11,7 @@ public class Questao02 {
         int numero = 0;
 
         do {
-            System.out.println("/n" + i + " Informe um número: ");
+            System.out.println("\n" + i + " Informe um número: ");
             numero = scan.nextInt();
 
             if (numero == 0) {

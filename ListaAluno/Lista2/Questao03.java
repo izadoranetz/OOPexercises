@@ -13,5 +13,13 @@ public class Questao03 {
         
         String frase = scan.nextLine();
 
+        System.out.println("Escolha uma palavra da frase: ");
+
+        String palavra = scan.nextLine();
+
+        int indice = frase.indexOf(palavra);
+
+        System.out.println("A palavra escolhida " + palavra + " está no índice " + indice + " da frase.");
+
     }
 }
