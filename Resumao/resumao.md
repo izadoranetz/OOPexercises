@@ -8,13 +8,7 @@
 
 **Valor**: 2,00
 
-**Atenção**: Trabalhos entregues fora da data só serão aceitos mediante apresentação de
-
-atestamento médico.
-
 **Identificação**
-
-**Nome: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **Exercício**
 
@@ -22,31 +16,27 @@ Desenvolva pelo menos **50 algoritmos**, dentre os apresentados nessa apostila, 
 
 das técnicas: português estruturado ou J AVA.
 
-\1) Faça uma algoritmo que calcule o perímetro do triângulo\. O programa deve receber 3 números
+1) Faça uma algoritmo que calcule o perímetro do triângulo\. O programa deve receber 3 números
 
 inteiros como parâmetro e deve retornar o valor do perímetro.
 
-\2) Escreva uma algoritmo que receba uma hora no formato de três números inteiros que representam:
+2) Escreva uma algoritmo que receba uma hora no formato de três números inteiros que representam:
 
 horas, minutos e segundos. Sua função deve calcular e retornar a quantidade total de segundos.
 
-\3) Escreva um algoritmo que permita fazer a conversão cambial entre reais e dólares\. Considere como
+3) Escreva um algoritmo que permita fazer a conversão cambial entre reais e dólares\. Considere como
 
 taxa de cambio US$ 1,00 = R$ 4,05. Leia uma valor em reais pelo teclado e mostre o correspondente
 
 em dólares.
 
-\4) Escreva um algoritmo que leia a idade de uma pessoa em anos e apresente uma mensagem
+4) Escreva um algoritmo que leia a idade de uma pessoa em anos e apresente uma mensagem
 
 identificando se é maior ou menor de 18 anos.
 
-**5)**
-
-O custo de um carro novo ao consumidor é a soma do custo de fábrica coma porcentagem do
+5) O custo de um carro novo ao consumidor é a soma do custo de fábrica coma porcentagem do
 
 distribuidor e dos impostos (aplicados ao custo de fábrica). Supondo que o percentual do distribuidor
-
-
 
 <a name="br2"></a> 
 
