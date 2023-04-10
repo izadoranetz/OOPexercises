@@ -8,12 +8,14 @@ public class Questao04 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
+        System.out.println("Qual a sua idade?");
+
         int idade = scan.nextInt();
 
-        if(idade >= 18 ) {
-            System.out.printl("Com " + idade + " você já é maior de idade");
-        } else (idade < 18 ) {
-            System.out.println("Com " + idade + " você é menor de idade")
+        if(idade >= 18) {
+            System.out.println("Com " + idade + " anos você já é maior de idade");
+        } else {
+            System.out.println("Com " + idade + " anos você ainda é menor de idade");
         }
 
         scan.close();
