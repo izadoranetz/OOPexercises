@@ -38,15 +38,11 @@ identificando se é maior ou menor de 18 anos.
 
 distribuidor e dos impostos (aplicados ao custo de fábrica). Supondo que o percentual do distribuidor
 
-<a name="br2"></a> 
-
 seja de 28% e os impostos de 45%, escrever um algoritmo para ler o custo de fábrica de um carro,
 
 calcular e escrever o custo final ao consumidor.
 
-**6)**
-
-Uma revendedora de carros usados paga a seus funcionários vendedores um salário fixo por
+6) Uma revendedora de carros usados paga a seus funcionários vendedores um salário fixo por
 
 mês, mais uma comissão também fixa para cada carro vendido e mais 5% do valor das vendas por ele
 
