@@ -9,10 +9,7 @@ public class Main {
         endereco.cep = "70874020";
         endereco.uf = uf;
         
-
         System.out.println("Nome da rua: " + endereco.rua + "\nCEP: " + endereco.cep + "\n" + endereco.uf.nome);
-
-
 
     }
 }
