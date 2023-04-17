@@ -50,6 +50,7 @@ public abstract class Pessoa {
         this.cpf = cpf;
     }
 
+    // abstract faz com que as classes filhas PRECISEM instanciar esses métodos
     public abstract String obterEtiquetaEndereco();
 
     public abstract void imprimirEtiquetaEndereco();
