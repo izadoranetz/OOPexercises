@@ -52,11 +52,11 @@ vendas, o salário fixo e o valor que ele recebe por carro vendido. Calcule e es
 
 vendedor.
 
-**7)** Escreva um algoritmo para ler uma temperatura em graus Fahrenheit, calcular e escrever o valor
+7) Escreva um algoritmo para ler uma temperatura em graus Fahrenheit, calcular e escrever o valor
 
 correspondente em graus Celsius (baseado na fórmula abaixo):
 
-*Observação:* Para testar se a sua resposta está correta saiba que **100oC = 212F**
+*Observação:* Para testar se a sua resposta está correta saiba que 100oC = 212F
 
 **8)** Faça um algoritmo que leia três notas de um aluno, calcule e escreva a média final deste aluno.
 
