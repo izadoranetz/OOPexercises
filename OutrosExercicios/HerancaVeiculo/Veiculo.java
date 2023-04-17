@@ -1,15 +1,16 @@
 package OutrosExercicios.HerancaVeiculo;
 
 public class Veiculo {
-    private String placa;
-    private int ano;
+    protected String placa;
+    protected int ano;
 
-    
+    // constructor with parameters
     public Veiculo(String placa, int ano) {
         this.placa = placa;
         this.ano = ano;
     }
     
+    // default constructor
     public Veiculo () {}
     
     //getters
